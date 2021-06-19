@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@petchkubbb/eslint-config-petchkubbb": "^0.2.3"
   }
 }
