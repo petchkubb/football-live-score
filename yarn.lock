@@ -1639,10 +1639,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@petchkubbb/eslint-config-petchkubbb@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@petchkubbb/eslint-config-petchkubbb/-/eslint-config-petchkubbb-0.2.3.tgz#7bf44253b5716bf4d2921ea2463fe4430b938381"
-  integrity sha512-UgpXdc+UEf/hvUFjOHp7AhTv57dM3tJcPJbUWvAq83TmfauoWQ42Id1qYdvPiUklTndVf4xUVPLSPnXhaS7FCg==
+"@petchkubbb/eslint-config-petchkubbb@^0.2.5":
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/@petchkubbb/eslint-config-petchkubbb/-/eslint-config-petchkubbb-0.2.5.tgz#2efb35b9b9419f7b45a8abdad91edce5dc3d489f"
+  integrity sha512-OyGl+aj5nMvGLggvxVzdRYxaC5sMhd+nUeY15usW06zJgaINfMOmYMdFUfkKELik7cPgg0onEYPOWdG94YpIFQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "4.27.0"
     "@typescript-eslint/parser" "4.27.0"
