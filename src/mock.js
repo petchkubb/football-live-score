@@ -1,19 +1,19 @@
 export const mockFixture = [
 	{
 		'fixture': {
-			'id': 657698,
+			'id': 713160,
 			'referee': null,
 			'timezone': 'UTC',
-			'date': '2021-06-20T16:00:00+00:00',
-			'timestamp': 1624204800,
+			'date': '2021-06-26T16:00:00+00:00',
+			'timestamp': 1624723200,
 			'periods': {
 				'first': null,
 				'second': null
 			},
 			'venue': {
-				'id': 2607,
-				'name': 'Bakı Olimpiya Stadionu',
-				'city': 'Baku'
+				'id': 1117,
+				'name': 'Johan Cruijff Arena',
+				'city': 'Amsterdam'
 			},
 			'status': {
 				'long': 'Not Started',
@@ -28,19 +28,19 @@ export const mockFixture = [
 			'logo': 'https://media.api-sports.io/football/leagues/4.png',
 			'flag': null,
 			'season': 2020,
-			'round': 'Group A - 3'
+			'round': '8th Finals'
 		},
 		'teams': {
 			'home': {
-				'id': 15,
-				'name': 'Switzerland',
-				'logo': 'https://media.api-sports.io/football/teams/15.png',
+				'id': 767,
+				'name': 'Wales',
+				'logo': 'https://media.api-sports.io/football/teams/767.png',
 				'winner': null
 			},
 			'away': {
-				'id': 777,
-				'name': 'Turkey',
-				'logo': 'https://media.api-sports.io/football/teams/777.png',
+				'id': 21,
+				'name': 'Denmark',
+				'logo': 'https://media.api-sports.io/football/teams/21.png',
 				'winner': null
 			}
 		},
@@ -69,19 +69,19 @@ export const mockFixture = [
 	},
 	{
 		'fixture': {
-			'id': 657699,
+			'id': 713161,
 			'referee': null,
 			'timezone': 'UTC',
-			'date': '2021-06-20T16:00:00+00:00',
-			'timestamp': 1624204800,
+			'date': '2021-06-26T19:00:00+00:00',
+			'timestamp': 1624734000,
 			'periods': {
 				'first': null,
 				'second': null
 			},
 			'venue': {
-				'id': 910,
-				'name': 'Stadio Olimpico',
-				'city': 'Roma'
+				'id': 489,
+				'name': 'Wembley Stadium',
+				'city': 'London'
 			},
 			'status': {
 				'long': 'Not Started',
@@ -96,7 +96,7 @@ export const mockFixture = [
 			'logo': 'https://media.api-sports.io/football/leagues/4.png',
 			'flag': null,
 			'season': 2020,
-			'round': 'Group A - 3'
+			'round': '8th Finals'
 		},
 		'teams': {
 			'home': {
@@ -106,9 +106,9 @@ export const mockFixture = [
 				'winner': null
 			},
 			'away': {
-				'id': 767,
-				'name': 'Wales',
-				'logo': 'https://media.api-sports.io/football/teams/767.png',
+				'id': 775,
+				'name': 'Austria',
+				'logo': 'https://media.api-sports.io/football/teams/775.png',
 				'winner': null
 			}
 		},

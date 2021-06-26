@@ -8,8 +8,8 @@ const useStyles = makeStyles({
 		background: colors.grey[300],
 		height: '100vh',
 		paddingTop: spaces[16],
-		paddingLeft: 0,
-		paddingRight: 0
+		paddingLeft: '24px',
+		paddingRight: '24px',
 	},
 })
 
